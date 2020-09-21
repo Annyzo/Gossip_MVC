@@ -1,3 +1,3 @@
 # Titre du projet
 
-[![forthebadge]
+[![forthebadge](http://forthebadge.com/images/badges/ruby)](http://forthebadge.com) 
