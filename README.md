@@ -13,7 +13,7 @@ Pour commencer ce projet il faut connaitre
 - CSV (Comma-separated values)
 
 ### Installation
-Creation de fichier necessaire comme route.rb, controller.rb,view.rb, app.rb et gossip.csv (pour enregistrer les resultat).
+Création de fichier necessaire comme route.rb, controller.rb,view.rb, app.rb et gossip.csv (pour enregistrer les resultat).
 Puis on install les gems dans le fichier Gemfile et lancer sur le terminal le commende "bundle install".
 
 Pour verifier que l'installation est fini ,il faut consulter les dossier de projet et trouver le fichier Gemfile.lock
