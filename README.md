@@ -6,21 +6,19 @@ Cette projet consiste de mieux appréhender l'architecture du MVC
 
 ### Pré-requis
 
-Pour commencer ce projet il faut connaitre
+### Pré-requis
 
+Pour commencer ce projet il faut connaitre
 - Base de ruby
-- POO (Programme Orient Object)
-- CSV (Comma-separated values)
+- POO (Programme Orient Objet)
+- CSV (Comma separated values)
 
 ### Installation
-Création de fichier necessaire comme route.rb, controller.rb,view.rb, app.rb et gossip.csv (pour enregistrer les resultat).
-Puis on install les gems dans le fichier Gemfile et lancer sur le terminal le commende "bundle install".
-
-Pour verifier que l'installation est fini ,il faut consulter les dossier de projet et trouver le fichier Gemfile.lock
+Création du fichier nécessaire comme route Rb, contrôler Rb, view Rb, app Rb et gossip Csv (pour enregistrer les résultats).Puis on installe les gems dans le fichier Gemfile et lancer sur le terminal la commende "bundle install".Pour vérifier que l'installation est finie, il faut consulter les dossiers de projet et trouver le fichier Gemfile.Lock
 
 ## Démarrage
 
-Pour lancer cette application , ouvrier au terminal le dossier de projet et taper "ruby app.rb" et choisir ce que vous voulez. 
+Pour lancer cette application,lancer avec le terminal le dossier de projet et taper "ruby app.rb" et choisir ce que vous voulez. 
 
 ## Auteurs
 Les profils de github des membres dans groupe 6 au Sayna School
