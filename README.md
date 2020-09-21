@@ -14,7 +14,7 @@ Pour commencer ce projet il faut connaitre
 - CSV (Comma separated values)
 
 ### Installation
-Création du fichier nécessaire comme route Rb, contrôler Rb, view Rb, app Rb et gossip Csv (pour enregistrer les résultats).Puis on installe les gems dans le fichier Gemfile et lancer sur le terminal la commende "bundle install".Pour vérifier que l'installation est finie, il faut consulter les dossiers de projet et trouver le fichier Gemfile.Lock
+Création du fichier nécessaire comme route Rb, contrôler.Rb, view.Rb, app.Rb et gossip.Csv (pour enregistrer les résultats).Puis on installe les gems dans le fichier Gemfile et lancer sur le terminal la commende "bundle install".Pour vérifier que l'installation est finie, il faut consulter les dossiers de projet et trouver le fichier Gemfile.Lock
 
 ## Démarrage
 
