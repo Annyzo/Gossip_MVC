@@ -1,3 +1,3 @@
 # Titre du projet
 
-[![forthebadge](http://forthebadge.com/images/badges/ruby)](http://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
