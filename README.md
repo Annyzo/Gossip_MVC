@@ -25,11 +25,9 @@ Pour lancer cette application , ouvrier au terminal le dossier de projet et tape
 ## Auteurs
 Les profils de github des membres dans groupe 6 au Sayna School
 * **RAMAHATAFANDRY Fanomezana Nirina**  [@FaSa1316](https://github.com/FaSa1316)
-
-
-
-
-## License
-
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+* **RANDIMBIARILANTO  Mino** [@MinoRandy](https://github.com/MinoRandy)
+* **RABEMIARINTSOA Anny Zo** [@Annyzo](https://github.com/Annyzo)
+* **Rabearimanana Tolotry ny Avo** [@Tolotra0977](https://github.com/Tolotra0977)
+* **RIANJHARINELINA Ny Toky Fitiavana** [@ny-toky-fitiavana02](https://github.com/ny-toky-fitiavana02)
+* **ANDRIANASOLO Tolotra judicael**[@Tolotra-Judicael](https://github.com/Tolotra-Judicael)
 
